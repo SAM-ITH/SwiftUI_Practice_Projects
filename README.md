@@ -17,8 +17,8 @@ This simple app is created by using SwfitUI. according to the tutorial from 100d
 
 | Preview      | Preview |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| ![](https://github.com/SAM-ITH/SwiftUI_Practice_Projects/blob/main/GuessTheFlag/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2006.54.57.png)       | ![](https://github.com/SAM-ITH/SwiftUI_Practice_Projects/blob/main/GuessTheFlag/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2006.55.01.png)        |
+| ![](https://github.com/SAM-ITH/SwiftUI_Practice_Projects/blob/main/GuessTheFlag/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2006.55.07.png)    | ![](https://github.com/SAM-ITH/SwiftUI_Practice_Projects/blob/main/GuessTheFlag/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2006.55.43.png)         |
 
 ---
 
